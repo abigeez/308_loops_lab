@@ -51,3 +51,11 @@ while (n < 30) {
     continue; }
     
     }
+
+    ////// feeling loopy
+
+
+const col1 = ["Id","Name","Occupation", "Age"];
+for(const colR1 of col1) {
+    console.log(col1);
+}
