@@ -25,6 +25,22 @@ if (fb1 % 3 || 5 !==0) {
 }
 ///////////////////////////
 //prime time question
+let g=1;
+while (g < 10) {
+    g++;
+
+    if(g % 2 !== 0) {
+       
+    console.log(g); 
+    break; }
+    
+    
+
+}
+
+
+////// testing with larger numbers
+
 let n=22;
 while (n < 30) {
     n++;
@@ -34,29 +50,4 @@ while (n < 30) {
     console.log(n); 
     continue; }
     
-    // break;
-    
-
-}
-
-
-////// testing with larger numbers
-
-// for(g = 85;g < 90;g++) {
-
-
-//     if(g % 2 || 3 !==0)
-        
-//        console.log(g);
-   
-// }
-// console.log(g);
-// if (g % 3 === 0) {
-//     console.log(g);
-// }
-   
-//     if (g % 5 === 0) {
-//         console.log(g);
-        
-//     }
-
+    }
