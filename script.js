@@ -23,3 +23,17 @@ if (fb1 % 3 || 5 !==0) {
     console.log(fb1)
 }
 }
+///////////////////////////
+//prime time question
+let n=22;
+while (n < 30) {
+    n++;
+
+    if(n % 2 || n % 3 || n % 5 !==0) {
+        
+    console.log(n); }
+    
+    break;
+    
+
+}
